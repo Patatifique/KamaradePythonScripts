@@ -1,0 +1,2191 @@
+{
+    "COG_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "FLY": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "TRAJ": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "WORLD": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "ankle_L_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "REVERSE_FOOT": 0,
+        "HeelRoll": 0.0,
+        "BallRoll": 0.0,
+        "ToesRoll": 0.0,
+        "HeelPivot": 0.0,
+        "BallPivot": 0.0,
+        "ToesPivot": 0.0,
+        "FootTilt": 0.0,
+        "Toes": 0.0,
+        "Squash": 0.0,
+        "Stretch": 10.0,
+        "ParentSpace": 0
+    },
+    "ankle_R_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "REVERSE_FOOT": 0,
+        "HeelRoll": 0.0,
+        "BallRoll": 0.0,
+        "ToesRoll": 0.0,
+        "HeelPivot": 0.0,
+        "BallPivot": 0.0,
+        "ToesPivot": 0.0,
+        "FootTilt": 0.0,
+        "Toes": 0.0,
+        "Squash": 0.0,
+        "Stretch": 1.0,
+        "ParentSpace": 0
+    },
+    "armMid_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "armMid_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "arm_L_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "OrientSpace": 0
+    },
+    "arm_L_PV_ctl": {
+        "translateX": 4.3577952034468126e-05,
+        "translateY": -1.8324341226616525e-06,
+        "translateZ": 0.0,
+        "ParentSpace": 0
+    },
+    "arm_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": -40.0,
+        "OrientSpace": 5
+    },
+    "arm_L_options_ctl": {
+        "SwitchIK": 0.0,
+        "Pin": 0.0,
+        "mainTweakers": 0.0,
+        "Tweakers": 0.0,
+        "SleeveTweakers": 0.0
+    },
+    "arm_L_pin_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "ParentSpace": 0
+    },
+    "arm_L_tweaker01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "arm_L_tweaker02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "arm_L_tweaker03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "arm_L_tweaker04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "arm_R_IK_ctl": {
+        "translateX": -2.5579538487363607e-13,
+        "translateY": 9.769962616701378e-14,
+        "translateZ": -1.1546319456101628e-14,
+        "OrientSpace": 0
+    },
+    "arm_R_PV_ctl": {
+        "translateX": 3.478660390499044e-05,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "ParentSpace": 0
+    },
+    "arm_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": -40.0,
+        "OrientSpace": 5
+    },
+    "arm_R_pin_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "ParentSpace": 0
+    },
+    "arm_R_tweaker01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "arm_R_tweaker02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "arm_R_tweaker03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "arm_R_tweaker04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "bottomSpine_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "breath_ctl": {
+        "translateY": 0.0,
+        "Breath": 0.0
+    },
+    "button_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "button_L1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "button_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "button_R1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "cheek_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "cheek_L1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "cheek_L2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "cheek_L3_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "CheekCrease": 1.0
+    },
+    "cheek_L_main_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0
+    },
+    "cheek_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "cheek_R1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "cheek_R2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "cheek_R3_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "CheekCrease": 1.0
+    },
+    "cheek_R_main_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0
+    },
+    "clav_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "clav_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_C0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_C1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_L1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_L2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_R1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_R2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_orient_L_ctl": {
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_orient_R_ctl": {
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_orient_back_ctl": {
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "collar_orient_front_ctl": {
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ear_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ear_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "elbow_L_ctl": {
+        "rotateX": 0.0
+    },
+    "elbow_R_ctl": {
+        "rotateX": 0.0
+    },
+    "eye_L00_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eye_L_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "Iris_Size": 10.0,
+        "EyeLid_Follow": 10.0,
+        "Blink": 0.0
+    },
+    "eye_R00_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eye_R_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "Iris_Size": 10.0,
+        "EyeLid_Follow": 10.0,
+        "Blink": 0.0
+    },
+    "eyebrow_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eyebrow_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eyebrow_xtra_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eyebrow_xtra_L1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eyebrow_xtra_L2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eyebrow_xtra_L3_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eyebrow_xtra_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eyebrow_xtra_R1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eyebrow_xtra_R2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "eyebrow_xtra_R3_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "foot_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "Tweaker": 0.0
+    },
+    "foot_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "Tweaker": 0.0
+    },
+    "forearmMid_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearmMid_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_L_tweaker01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_L_tweaker02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_L_tweaker03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_L_tweaker04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_R_tweaker01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_R_tweaker02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_R_tweaker03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "forearm_R_tweaker04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "frown_ctl": {
+        "translateY": 0.0
+    },
+    "hand_L_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 1.5729600156434893e-09,
+        "rotateY": 3.7433610283533954e-08,
+        "rotateZ": 4.172260379356913e-11,
+        "Squash": 0.0,
+        "Stretch": 1.0,
+        "ParentSpace": 0
+    },
+    "hand_R_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "Squash": 0.0,
+        "Stretch": 1.0,
+        "ParentSpace": 0
+    },
+    "head_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "OrientSpace": 0
+    },
+    "head_option_ctl": {
+        "LookAt": 1.0,
+        "CheeksTweakersVisibility": 1.0,
+        "EyebrowsTweakersVisibility": 1.0,
+        "EyelidsTweakersVisibility": 1.0,
+        "CollarControlersVisibility": 1.0,
+        "ShouldersButtonsTweaker_Visibility": 1.0,
+        "Nude": 1.0
+    },
+    "hip_L_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0
+    },
+    "hip_R_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0
+    },
+    "hips_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "hips_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "hips_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "jaw_C0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0
+    },
+    "jaw_rotate_ctl": {
+        "rotateX": 0.0,
+        "rotateY": -0.0,
+        "rotateZ": 0.0
+    },
+    "kneeMid_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "kneeMid_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_L_ctl": {
+        "rotateX": 0.0
+    },
+    "knee_L_tweaker01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_L_tweaker02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_L_tweaker03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_L_tweaker04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_R_ctl": {
+        "rotateX": 0.0
+    },
+    "knee_R_tweaker01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_R_tweaker02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_R_tweaker03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_R_tweaker04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_ribbon_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "knee_ribbon_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "legMid_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "legMid_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "leg_L_PV_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "ParentSpace": 0
+    },
+    "leg_L_options_ctl": {
+        "SwitchIK": 1.0,
+        "Pin": 0.0,
+        "mainTweakers": 0.0,
+        "Tweakers": 0.0
+    },
+    "leg_L_pin_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "ParentSpace": 0
+    },
+    "leg_L_tweaker01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "leg_L_tweaker02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "leg_L_tweaker03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "leg_L_tweaker04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "leg_R_PV_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "ParentSpace": 0
+    },
+    "leg_R_options_ctl": {
+        "SwitchIK": 1.0,
+        "Pin": 0.0,
+        "mainTweakers": 0.0,
+        "Tweakers": 0.0
+    },
+    "leg_R_pin_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "ParentSpace": 0
+    },
+    "leg_R_tweaker01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "leg_R_tweaker02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "leg_R_tweaker03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "leg_R_tweaker04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_down_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_down_L1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_down_L2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_down_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_down_R1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_down_R2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_down_main_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0
+    },
+    "lids_down_main_R0_ctl": {
+        "translateX": -6.357761539454998e-16,
+        "translateY": 0.0
+    },
+    "lids_side_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0
+    },
+    "lids_side_L1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0
+    },
+    "lids_side_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 2.842170943040401e-14
+    },
+    "lids_side_R_ctl": {
+        "translateX": -3.552713678800501e-15,
+        "translateY": 0.0
+    },
+    "lids_up_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_up_L1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_up_L2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_up_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_up_R1_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_up_R2_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lids_up_main_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.6925
+    },
+    "lids_up_main_R0_ctl": {
+        "translateX": -6.8747091352960865e-15,
+        "translateY": 0.6925
+    },
+    "lip_down_C0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lip_down_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lip_down_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lip_side_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lip_side_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lip_up_C0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lip_up_L0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lip_up_R0_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lookAt_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lookAt_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "lookAt_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "lower_lip_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "LipRoll": 0.0,
+        "Puff": 0.0,
+        "Press": 0.0,
+        "Squetch": 0.0
+    },
+    "lowerteeth_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "meta_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "Switch_IK": 0,
+        "Thumb_IK": 0.0,
+        "Pointer_IK": 0.0,
+        "Middle_IK": 0.0,
+        "Ring_IK": 0.0,
+        "Pinky_IK": 0.0
+    },
+    "meta_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "SWITCH_IK": 0,
+        "Thumb_IK": 0.0,
+        "Pointer_IK": 0.0,
+        "Middle_IK": 0.0,
+        "Ring_IK": 0.0,
+        "Pinky_IK": 0.0
+    },
+    "metamiddle_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "metamiddle_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "metapinky_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "metapinky_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "metapointer_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "metapointer_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "metaring_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "metaring_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "midSpine_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "midSpine_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "middle_01_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "middle_01_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "middle_02_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "middle_02_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "middle_03_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "middle_03_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "middle_L_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "middle_L_IK_pivot_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "middle_L_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "middle_R_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "middle_R_IK_pivot_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "middle_R_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 2
+    },
+    "middle_base_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "middle_base_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "mouth_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "mouth_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "mouth_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "neck_01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "neck_02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "neck_03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "nose_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "nostril_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "NoseCrease": 1.0,
+        "NostrilFlare": 0.0
+    },
+    "nostril_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "NoseCrease": 1.0,
+        "NostrilFlare": 0.0
+    },
+    "pinky_01_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pinky_01_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pinky_02_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pinky_02_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pinky_03_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pinky_03_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pinky_L_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "pinky_L_IK_pivot_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pinky_L_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "pinky_R_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "pinky_R_IK_pivot_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pinky_R_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 2
+    },
+    "pinky_base_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "pinky_base_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "pointer_01_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pointer_01_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pointer_02_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pointer_02_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pointer_03_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pointer_03_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pointer_L_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "pointer_L_IK_pivot_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pointer_L_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "pointer_R_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "pointer_R_IK_pivot_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "pointer_R_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 2
+    },
+    "pointer_base_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "pointer_base_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "ring_01_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ring_01_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ring_02_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ring_02_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ring_03_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ring_03_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ring_L_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "ring_L_IK_pivot_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ring_L_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "ring_R_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "ring_R_IK_pivot_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "ring_R_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 2
+    },
+    "ring_base_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "ring_base_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "spine_L_options_ctl": {
+        "Tweakers": 0.0,
+        "IKSpine": 1.0
+    },
+    "spine_tweak_01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "spine_tweak_02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "spine_tweak_03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "spine_tweak_04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "spine_tweak_05_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "throat_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "thumb_01_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "thumb_01_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "thumb_02_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "thumb_02_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "thumb_03_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "thumb_03_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "thumb_L_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "thumb_L_IK_pivot_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "thumb_L_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 2
+    },
+    "thumb_R_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 3
+    },
+    "thumb_R_IK_pivot_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "thumb_R_pv_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "ParentSpace": 2
+    },
+    "thumb_base_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0000000000000002,
+        "scaleY": 1.0000000000000002,
+        "scaleZ": 1.0
+    },
+    "thumb_base_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "toes_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "toes_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "tongue_01_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "tongue_02_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "tongue_03_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "tongue_04_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "tongue_05_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "topSpine_IK_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "topSpine_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "upper_lip_ctrl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "LipRoll": 0.0,
+        "Puff": 0.0,
+        "Press": 0.0,
+        "Squetch": 0.0
+    },
+    "upperteeth_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0
+    },
+    "wrist_L_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "Tweaker": 0.0
+    },
+    "wrist_R_ctl": {
+        "translateX": 0.0,
+        "translateY": 0.0,
+        "translateZ": 0.0,
+        "rotateX": 0.0,
+        "rotateY": 0.0,
+        "rotateZ": 0.0,
+        "Tweaker": 0.0
+    },
+    "arm_R_options_ctl": {
+        "SwitchIK": 0.0,
+        "Pin": 0.0,
+        "mainTweakers": 0.0,
+        "Tweakers": 0.0,
+        "SleeveTweakers": 0.0
+    }
+}
