@@ -142,3 +142,23 @@ A set of custom Maya tools for streamlining UV transfer and layout workflows. Th
 - **layout_objects_in_udims**:  
   Automatically arranges the UVs of selected objects into consecutive UDIM tiles, making multi-object texturing more efficient.
 - Includes plugin entry/exit points for feedback when loaded or unloaded.
+
+
+
+---
+
+
+## KamaradeUpdater
+
+### `KamaradeUpdater.py`
+
+**Description**:  
+A standalone Python application with a simple GUI for automating the update and synchronization of playblast previews and rendered shot folders between local and network drives. Designed to save time and reduce manual file management for the Kamarade project.
+
+**Features**:
+- **Playblast Updater**: Scans a source folder for the latest playblast `.mp4` files, checks if newer versions exist compared to the reference folders, and copies updated files to a timestamped output directory.
+- **Render Folder Updater**: Scans for render output folders (e.g., `_RENDU_MAYA`, `_RENDU_COMP`), compares modification times and frame counts with the main project drive, and copies newer or more complete folders as needed.
+- **GUI**: Simple Tkinter interface with buttons to run either update process, with progress and error messages.
+- **Customizable**: Paths and naming conventions can be adapted for other projects.
+
+
