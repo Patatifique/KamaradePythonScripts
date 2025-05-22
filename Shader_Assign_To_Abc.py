@@ -19,14 +19,14 @@ def assign_shaders():
     shader_assignments = {
     
         "SHD_Shutter": [
-            "MSH_Cable_inter_top", "Blades_result_msh", "Blade_mshShape", "Blade_mshShapeOrig", "Boolean_msh", "Blades_result_mshShape"
+            "Blades_result_msh", "Blade_mshShape", "Blade_mshShapeOrig", "Boolean_msh", "Blades_result_mshShape"
             ],
         "SHD_Kat": [
             "MSH_HeadShape", "MSH_BaseShape", "MSH_RailsShape", 
-            "MSH_Head_CableShape", "MSH_Arm_RShape", "MSH_LegsShape", "MSH_Arm_LShape", "MSH_BustShape"
+            "MSH_Arm_RShape", "MSH_LegsShape", "MSH_Arm_LShape", "MSH_BustShape"
         ],
         "SHD_Cables": [
-            "MSH_Cable_extShape", "MSH_Cable_inter_topShape", "MSH_Cable_inter_bottomShape"
+            "MSH_Head_CableShape", "MSH_Cable_inter_top", "MSH_Cable_extShape", "MSH_Cable_inter_topShape", "MSH_Cable_inter_bottomShape"
         ],
         "SHD_BODY": [
             "msh_bttm_molar_02_RShape", "msh_top_molar_02_LShape", "msh_top_molar_01_LShape", "msh_top_premolar_01_LShape", 

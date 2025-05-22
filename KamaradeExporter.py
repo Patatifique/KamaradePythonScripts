@@ -124,13 +124,16 @@ def export_abc(obj_list, export_name, version_folder, scene_name, start_frame, e
 def select_cameras():
     """Selects cameras and mirrored objects."""
     # Get objects that start with "CAM" and "mirrored_"
-    camera_objects = get_full_paths([obj for obj in cmds.ls(tr=True) if obj.startswith("CAM") or obj.endswith("_camera")])
-    mirrored_objects = get_full_paths([obj for obj in cmds.ls(tr=True) if obj.startswith("mirrored_")])
+    all_cams = cmds.ls("CAM*", "mirrored_CAM*", type="transform", long=True)
+    leaf_cams = []
 
-    selected_cameras = camera_objects + mirrored_objects
-    cmds.select(selected_cameras)
+    for cam in all_cams:
+        children = cmds.listRelatives(cam, children=True, fullPath=True) or []
+        # Keep it if it has a shape node and no child transforms
+        if not any(cmds.nodeType(child) == "transform" for child in children):
+            leaf_cams.append(cam)
 
-    return selected_cameras
+    return leaf_cams
 
 def export_alembic():
     # Get the scene file name
@@ -228,7 +231,9 @@ def export_alembic():
         
         # Export cameras as .mb file
         if ExportCameras == True:
+            cmds.select(selected_cameras)
             cmds.file(camera_file_path, exportSelected=True, type="mayaBinary")
+            export_abc(selected_cameras, "CAMERAS", version_folder, scene_name, start_frame, end_frame)
             print(f"Exported cameras to: {camera_file_path}")
         else: 
             print("Export camera is set to False, not exporting cameras")
